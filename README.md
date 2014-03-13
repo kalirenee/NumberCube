@@ -1,6 +1,6 @@
 NumberCube
 ==========
- public static main(String[]args)
+ public static void main(String[]args)
 {
   public static int[] getCubeTosses(NumberCube nc, int numTosses){
   
